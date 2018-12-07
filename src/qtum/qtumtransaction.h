@@ -1,5 +1,5 @@
-#ifndef QTUMTRANSACTION_H
-#define QTUMTRANSACTION_H
+#ifndef JODTRANSACTION_H
+#define JODTRANSACTION_H
 
 #include <libethcore/Transaction.h>
 

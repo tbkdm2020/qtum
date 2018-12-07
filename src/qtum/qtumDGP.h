@@ -1,5 +1,5 @@
-#ifndef QTUMDGP_H
-#define QTUMDGP_H
+#ifndef JODDGP_H
+#define JODDGP_H
 
 #include <qtum/qtumstate.h>
 #include <primitives/block.h>
